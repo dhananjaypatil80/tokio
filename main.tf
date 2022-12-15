@@ -11,7 +11,7 @@ rerce "aws_instance" "my_windows" {
 
   tags = {
     Name = "My_linux_machine"
-    dept = "Cloud"
+    dept = "devops"
   }
 }
 
